@@ -1,0 +1,5 @@
+name = input("Your name: ")
+Favorite_food = input("favorite fodd:")
+Favorite_music = input("favorite music:")
+Living = input("Where do you live? ")
+print("Your name is: " + "\n" + name + "\n" + "Your favorite food is:" + "\n" + Favorite_food + "\n" + "Your favorite music is:" + "\n" + Favorite_music + "\n"+ "You live in :" + "\n" + Living +"\n" + "You are amazing!" )
